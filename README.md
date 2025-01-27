@@ -9,4 +9,7 @@ This is a mobile native application built using Swift 5 that displays movies fet
 5. **Endless Scrolling**: Implements endless scrolling for loading more movies as the user scrolls. 
 6. **Error Handling**: Handles errors such as internet connectivity issues gracefully.
 
- ## **Requirements** -Swift 5 - iOS 15.6+ - Xcode (latest production version) - RXSwift for reactive programming
+ ## **Requirements** 
+- Swift 5 
+- iOS 15.6+ - Xcode (latest production version) 
+- RXSwift and MVVM
